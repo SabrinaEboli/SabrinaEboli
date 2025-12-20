@@ -1,6 +1,6 @@
 ### Olá! Sou a Sabrina!
 # 💫 About Me:
-👩🏻‍💻 Software Engineer
+👩🏻‍💻 Analise e desenvolvimento de sistemas
 🎓Studied 
 >Undergraduate Education/ Bachelor's degree math/ C2 (English)
 
