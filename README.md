@@ -21,7 +21,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 --- 
-### Let’s connect!
 
 ⤿ Email: sabrinaeboli.pro@gmail.com  
 ⤿ LinkedIn: (https://www.linkedin.com/in/sabrina-eboli-877677239/)
+
+<p align="center">
+ <img ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹Thanks for visiting my profile ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+</p>
