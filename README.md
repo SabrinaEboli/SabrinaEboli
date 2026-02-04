@@ -9,7 +9,7 @@
 ## 🌷 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,sql,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,azure,js,git,github" />
 </p>
 
 <p align="center">
