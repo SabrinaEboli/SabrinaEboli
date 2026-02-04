@@ -1,6 +1,6 @@
 ### Olá! Sou a Sabrina!
 ## ✧ About Me °❀⋆.ೃ࿔*:･
-Sou estudante de **Matemática** e **Análise e Desenvolvimento de Sistemas**, com interesse em **Inteligência Artificial**, **Cloud Computing**, **Análise de Dados** e **Automação de Processos**. Atualmente estudo e desenvolvo habilidades em **Python**, **automação de tarefas**, **bancos de dados (MySQL e NoSQL no Azure)**, **Power BI**, **Excel** e **Microsoft Azure**, buscando aplicar **lógica matemática** e **tecnologia** para gerar **insights** e **soluções eficientes baseadas em dados**. Possuo **inglês fluente**, o que me permite estudar **documentações**, **cursos** e **conteúdos técnicos internacionais** com facilidade.
+>Sou estudante de **Matemática** e **Análise e Desenvolvimento de Sistemas**, com interesse em **Inteligência Artificial**, **Cloud Computing**, **Análise de Dados** e **Automação de Processos**. Atualmente estudo e desenvolvo habilidades em **Python**, **automação de tarefas**, **bancos de dados (MySQL e NoSQL no Azure)**, **Power BI**, **Excel** e **Microsoft Azure**, buscando aplicar **lógica matemática** e **tecnologia** para gerar **insights** e **soluções eficientes baseadas em dados**. Possuo **inglês fluente**, o que me permite estudar **documentações**, **cursos** e **conteúdos técnicos internacionais** com facilidade.
 
 
 ## ✧ Languages & Technologies °❀⋆.ೃ࿔*:･
