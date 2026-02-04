@@ -4,7 +4,7 @@
 🎓Studied 
 >Undergraduate Education/ Bachelor's degree math/ C2 (English)
 
-💭 Currently learning about cyber security and AI
+💭 Currently learning about cloud and AI
 
 
 # 💻 Tech Stack:
