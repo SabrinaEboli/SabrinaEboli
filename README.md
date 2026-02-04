@@ -25,6 +25,4 @@
 ⤿ Email: sabrinaeboli.pro@gmail.com  
 ⤿ LinkedIn: (https://www.linkedin.com/in/sabrina-eboli-877677239/)
 
-<p align="center">
- <img ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹Thanks for visiting my profile ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-</p>
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹Thanks for visiting my profile ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
