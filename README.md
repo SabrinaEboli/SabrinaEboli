@@ -4,7 +4,11 @@
 🎓Studied 
 >Undergraduate Education/ Bachelor's degree math/ C2 (English)
 
-💭 Currently learning about cloud and AI
+Sou estudante de **Matemática** e **Análise e Desenvolvimento de Sistemas**, com interesse em
+**Inteligência Artificial, Cloud Computing e Análise de Dados**.
+Atualmente estudo e desenvolvo habilidades em **Python, SQL, Power BI, Excel e Microsoft Azure**,
+buscando aplicar lógica matemática e tecnologia para gerar insights e soluções baseadas em dados.
+
 
 ## 🌷 Languages & Technologies
 
