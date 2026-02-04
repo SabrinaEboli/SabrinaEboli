@@ -1,8 +1,8 @@
 ### Olá! Sou a Sabrina!
-## About Me °❀⋆.ೃ࿔*:･
+## ✧ About Me °❀⋆.ೃ࿔*:･
 >Sou estudante de **Matemática** e **Análise e Desenvolvimento de Sistemas**, com interesse em **Inteligência Artificial, Cloud Computing e Análise de Dados**. Atualmente estudo e desenvolvo habilidades em **Python, bancos de dados (MySQL e NoSQL no Azure), Power BI, Excel e Microsoft Azure**, buscando aplicar lógica matemática e tecnologia para gerar insights e soluções baseadas em dados. Possuo **inglês fluente**, o que me permite estudar documentações, cursos e conteúdos técnicos internacionais com facilidade.
 
-## Languages & Technologies °❀⋆.ೃ࿔*:･
+## ✧ Languages & Technologies °❀⋆.ೃ࿔*:･
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,azure,js,git,github" />
