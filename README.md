@@ -21,8 +21,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+## ✧ Links °❀⋆.ೃ࿔*:･
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-eboli-877677239/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrinaeboli.pro@gmail.com)
 ---
-
 <p align="center">
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ Thanks for visiting my profile ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
