@@ -6,7 +6,7 @@
 ## ✧ Languages & Technologies °❀⋆.ೃ࿔*:･
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,azure,git,github" />
 </p>
 
 <p align="center">
